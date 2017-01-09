@@ -60,3 +60,12 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/StarterContent/
+Content/Geometry/Texture/Textures_SC/
+Content/Geometry/VatLieu/Materials_SC/
+Content/FirstPerson/Audio/
+Content/FirstPerson/FPWeapon/
+Content/FirstPerson/Meshes/
+Content/FirstPersonCPP/
+Content/FirstPerson/Textures/
+Content/FirstPerson/
